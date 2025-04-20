@@ -1,7 +1,7 @@
 Hi 👋 My name is Piyush Panchal
 ===============================
 
-Backend Django Developer
+Python Developer
 ------------------------
 
 ● Experience in Functional and Object-Oriented Programming styles of Python. ● In-Depth understanding of end-to-end software development. ● Worked with clients to build their websites and backend features. ● Understanding of backend integrations with Django. ● Third-party API integration with Django.
